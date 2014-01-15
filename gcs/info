@@ -1,0 +1,29 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Guadalinex v6
+
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: guadalinexv9-help-mantis
+
+# Autor 
+author: David Amian Valle <damian@emergya.es>
+
+#Priority
+priority: optional
+
+# Section
+section: metapackages
+
+# Descripción corta
+shortdesc: "Link to url with mantis for Guadalinexv9 "
+
+# Descipción larga, las lineas han de estar separadas por "\n "
+longdesc: "Link to url with mantis for Guadalinexv9 "
+
+
+# Versión del paquete
+version: 9.0
+
+# Cambios en esta versión
+changes:
+    - Initial release.
